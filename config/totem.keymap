@@ -139,7 +139,7 @@
             bindings = <
         &none     &bt BT_CLR    &none      &none       &bt BT_SEL 0    &kp ASTERISK   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp MINUS
         &kp LWIN  &kp LEFT_ALT  &kp LCTRL  &kp LSHIFT  &bt BT_SEL 1    &kp BACKSLASH  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS
-&trans  &none     &none         &trans     &none       &bt BT_SEL 3    &kp COMMA      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp EQUAL  &none
+&trans  &none     &none         &trans     &none       &bt BT_SEL 2    &kp COMMA      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp EQUAL  &none
                                 &none      &none       &mo 3           &none          &kp NUMBER_0  &kp PERIOD
             >;
         };
