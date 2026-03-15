@@ -113,9 +113,9 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-       &none     &none         &none      &none          &none    &none           &kp INS        &none         &none            &none
-       &kp LWIN  &kp LEFT_ALT  &kp LCTRL  &kp LSHIFT     &none    &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT_ARROW  &none
-&none  &none     &none         &none      &kp RIGHT_ALT  &none    &kp HOME        &kp PAGE_DOWN  &kp PG_UP     &kp END          &none  &none
+       &none     &none         &none      &none          &none    &kp ASTERISK    &kp INS        &none         &none            &kp MINUS
+       &kp LWIN  &kp LEFT_ALT  &kp LCTRL  &kp LSHIFT     &none    &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT_ARROW  &kp PLUS
+&none  &none     &none         &none      &kp RIGHT_ALT  &none    &kp HOME        &kp PAGE_DOWN  &kp PG_UP     &kp END          &kp EQUAL  &none
                                &trans     &none          &none    &mo 3           &kp KP_N0      &trans
             >;
         };
